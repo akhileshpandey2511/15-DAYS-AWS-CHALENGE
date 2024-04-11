@@ -7,7 +7,7 @@ Welcome to the AWS 15-Day Challenge! This challenge is designed to help you lear
 Here is an overview of the 15-day roadmap:
 
 1. [Day 1: Cloud Computing](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/blob/main/Day_1/Readme.md)
-2. [Day 2: Linux Commands and File and Folder Transfer between Local Machine and EC2 using SCP]
+2. [Day 2: Linux Commands and File and Folder Transfer between Local Machine and EC2 using SCP](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/blob/main/Day_2/README.md)
 3. [Day 3: AWS Elastic IP]
 4. [Day 4: Placement Groups,Elastic Load Balancer]
 5. [Day 5: AWS EC2 Auto Scaling, AWS Status Check, Automatic Recovery]
