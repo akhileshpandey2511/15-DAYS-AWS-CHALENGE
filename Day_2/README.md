@@ -137,13 +137,13 @@ File management commands allow you to create, delete, copy, move, and modify fil
 
 ## Absolute Mode (Numerical) 
 
-<img src="https://github.com/" width="700">
+<img src="https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/blob/main/Day_2/image.png" width="700">
  
  Ex- chmod 764 <File_Name>
 
 ## Symbolic Mode (Alphabetical)
 
-<img src="https://github.com/" width="700">
+<img src="https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/blob/main/Day_2/image_1.jpg" width="700">
 
 Ex- chmod u+r,g+w,o+x <file_name>
 ## Process Management Commands
