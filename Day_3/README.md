@@ -1,4 +1,4 @@
-# DAY 3
+# DAY 3 AWS
 
 Building upon our previous knowledge of cloud computing from Day 1 and exploring the benefits of Linux in Day 2, we are now ready to delve into more concepts related to EC2 instances.  In Day 3, we will focus on learning about Elastic IP, understanding the significance of webservers, and leveraging Bootstrap for EC2. These topics will further enhance our understanding and skills in the AWS domain.
 ## What is AWS Elastic IP?
