@@ -10,8 +10,8 @@ Here is an overview of the 15-day roadmap:
 2. [Day 2: Linux Commands and File and Folder Transfer between Local Machine and EC2 using SCP](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/blob/main/Day_2/README.md)
 3. [Day 3: AWS Elastic IP](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_3)
 4. [Day 4: Placement Groups,Elastic Load Balancer](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_4)
-5. [Day 5: AWS EC2 Auto Scaling, AWS Status Check, Automatic Recovery]
-6. [Day 6: AWS Snapshots, Amazon Machine Images (AMIs), Scheduled Snapshots, Data Lifecycle Manager, and the Recycle Bin]
+5. [Day 5: AWS EC2 Auto Scaling, AWS Status Check, Automatic Recovery](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_5)
+6. [Day 6: AWS Snapshots, Amazon Machine Images (AMIs), Scheduled Snapshots, Data Lifecycle Manager, and the Recycle Bin](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_6)
 7. [Day 7: Simple Storage Service (S3)]
 8. [Day 8: Identity & Access Management (IAM) in AWS]
 9. [Day 9: Virtual Private Cloud (VPC) in AWS]
