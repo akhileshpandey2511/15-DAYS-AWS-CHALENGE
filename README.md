@@ -12,8 +12,8 @@ Here is an overview of the 15-day roadmap:
 4. [Day 4: Placement Groups,Elastic Load Balancer](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_4)
 5. [Day 5: AWS EC2 Auto Scaling, AWS Status Check, Automatic Recovery](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_5)
 6. [Day 6: AWS Snapshots, Amazon Machine Images (AMIs), Scheduled Snapshots, Data Lifecycle Manager, and the Recycle Bin](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_6)
-7. [Day 7: Simple Storage Service (S3)]
-8. [Day 8: Identity & Access Management (IAM) in AWS]
+7. [Day 7: Simple Storage Service (S3)](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_7)
+8. [Day 8: Identity & Access Management (IAM) in AWS](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_8)
 9. [Day 9: Virtual Private Cloud (VPC) in AWS]
 10. [Day 10: VPC Reachability Analyzer, VPC Peering, VPC Endpoints, VPC Flow Logs, AWS VPN Configuration (OpenVPN)]
 11. [Day 11: Domain Name System (DNS)]
