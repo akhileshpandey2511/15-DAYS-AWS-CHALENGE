@@ -1,4 +1,4 @@
-## DAy_10 REACHABILITY ANALYZER
+## Day_10: REACHABILITY ANALYZER
 
 VPC Reachability Analyzer is a tool provided by AWS that helps us test and check if there are any problems with the connections between different resources in our virtual private clouds (VPCs).
 
