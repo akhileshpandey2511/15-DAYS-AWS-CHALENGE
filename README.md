@@ -15,7 +15,7 @@ Here is an overview of the 15-day roadmap:
 7. [Day 7: Simple Storage Service (S3)](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_7)
 8. [Day 8: Identity & Access Management (IAM) in AWS](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_8)
 9. [Day 9: Virtual Private Cloud (VPC) in AWS](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_9)
-10. [Day 10: VPC Reachability Analyzer, VPC Peering, VPC Endpoints, VPC Flow Logs, AWS VPN Configuration (OpenVPN)]
+10. [Day 10: VPC Reachability Analyzer, VPC Peering, VPC Endpoints, VPC Flow Logs, AWS VPN Configuration (OpenVPN)](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_10)
 11. [Day 11: Domain Name System (DNS)]
 12. [Day 12: AWS Dadatabase]
 13. [Day 13: AWS Lambda,CloudWatch logs, Billing, AWS Pricing Calculator, CloudTrail]
