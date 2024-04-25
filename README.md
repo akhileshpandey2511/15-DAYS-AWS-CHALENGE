@@ -16,11 +16,11 @@ Here is an overview of the 15-day roadmap:
 8. [Day 8: Identity & Access Management (IAM) in AWS](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_8)
 9. [Day 9: Virtual Private Cloud (VPC) in AWS](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_9)
 10. [Day 10: VPC Reachability Analyzer, VPC Peering, VPC Endpoints, VPC Flow Logs, AWS VPN Configuration (OpenVPN)](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_10)
-11. [Day 11: Domain Name System (DNS)]
-12. [Day 12: AWS Dadatabase]
-13. [Day 13: AWS Lambda,CloudWatch logs, Billing, AWS Pricing Calculator, CloudTrail]
-14. [Day 14: AWS CloudFormation,Elastic Beanstalk, Trusted Advisor, Amazon SES]
-15. [Day 15: AWS Backup, DataSync, Snow Family]
+11. [Day 11: Domain Name System (DNS)](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_11)
+12. [Day 12: AWS Dadatabase](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_12)
+13. [Day 13: AWS Lambda,CloudWatch logs, Billing, AWS Pricing Calculator, CloudTrail](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_13)
+14. [Day 14: AWS CloudFormation,Elastic Beanstalk, Trusted Advisor, Amazon SES](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_14)
+15. [Day 15: AWS Backup, DataSync, Snow Family](https://github.com/akhileshpandey2511/15-DAYS-AWS-CHALENGE/tree/main/Day_15)
 
 ## Day 1: Cloud Computing
 
